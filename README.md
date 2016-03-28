@@ -2,7 +2,13 @@
 
 ## Introduction
 
-React.Dashoard is a stateless dashboard solution which provides portal-like experience.
+ [react-dashboard](https://github.com/gkosharov/react-dashboard) is a stateless dashboard solution which provides portal-like experience.
+
+## Installation
+
+```
+npm install --save react-dashboard
+```
 
 ## Features
 * Dashboard - a collection of widgets
