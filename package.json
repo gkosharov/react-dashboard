@@ -1,11 +1,8 @@
 {
   "name": "react-dashboard",
-  "version": "0.1.5",
+  "version": "0.0.15",
   "description": "React Dashboard",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "http://ci.tinqin.com:8081/nexus/content/repositories/npmtinqin/"
-  },
   "directories": {
     "doc": "docs",
     "test": "test"
@@ -75,9 +72,5 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.9.11",
     "webpack-dev-server": "^1.9.0"
-  },
-  "readmeFilename": "README.md",
-  "_id": "tinqin-ui-components@0.0.1",
-  "_shasum": "143dc769613f5d9fb276d2ca800931a70d3c7d24",
-  "_from": "tinqin-ui-components@*"
+  }
 }
