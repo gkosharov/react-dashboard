@@ -1,4 +1,4 @@
-# React.Dashboard
+# react-dashboard
 
 ## Introduction
 
@@ -79,7 +79,7 @@ class MyDashboard extends Component {
 
 ## Author
 
-[Georgi Kosharov](g.kosharov@tinqin.com)
+[Georgi Kosharov](georgi.kosharov@gmail.com)
 
 ## LICENSE
 
