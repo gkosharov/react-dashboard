@@ -17,6 +17,7 @@ import DefaultLayout from './Layout'
 export default class Dashboard extends Component {
     constructor(props) {
         super(props);
+
     }
 
     onActivate(widget) {
